@@ -1,7 +1,3 @@
-## Hey! I'm Xavier 👋
-
-I'm a developer at Volkswagen Digital Solutions, working with Angular and Java Spring Boot. Lately, I’ve been having fun exploring crazy stuff that can be done with CSS and just trying to get better at front-end stuff.
-
-When I’m not coding, I’m probably solving a Rubik’s cube or messing with puzzles. I love learning new things and pushing myself, whether it’s tech or just for fun.
-
-Feel free to check out my [portfolio](https://xavier-batista-fernandes.github.io/) or hit me up if you’re into coding, puzzles, or just want to chat!
+<p align="center">
+  <img src="assets/cat.webp" width="300px"/>
+</p>
